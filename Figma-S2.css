@@ -1,0 +1,35 @@
+.under-img div span a{
+color: #999999;
+background: #EEEEEE;
+border-radius: 22px;
+text-decoration: none;
+}
+.onvan{
+font-weight: 700;
+font-size: 20px;
+color: #666666;
+}
+.matn{
+font-weight: 400;
+font-size: 18px;
+line-height: 36px;
+color: #666666;
+}
+.card-text{
+color: #666666;
+line-height: 28px;
+}
+.card-body div div span a{
+color: #999999;
+background: #EEEEEE;
+border-radius: 22px;
+text-decoration: none;
+}
+.footer-left{
+max-width: 472px;
+}
+.footer-left a{
+text-decoration: none;
+color: #666666;
+margin-right: 8px;
+}
